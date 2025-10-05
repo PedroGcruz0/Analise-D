@@ -79,7 +79,7 @@ int main(int argc, char *argv[]) {
 
     printf("Resultados para o algoritmo: %s\n", argv[1]);
     printf("Tempo de execucao: %.2f ms\n", cpu_time_used_ms);
-    printf("Memoria RAM (estimada para os dados): %ld KB\n", memory_used_kb);
+    printf("Memoria RAM: %ld KB\n", memory_used_kb);
     
 
 
